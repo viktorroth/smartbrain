@@ -1,0 +1,6 @@
+.Tilt {
+    background: rgba(20, 20, 20, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
